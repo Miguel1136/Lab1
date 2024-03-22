@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Lab1</string>
+
+    <string name="button_text_at1">Página 1</string>
+
+    <string name="p_gina_at1">Página AT1</string>
+    <string name="at1">Botão 1</string>
+    <string name="at2">Botão 2</string>
+    <string name="main">Página Inícial</string>
+    <string name="miguel_pereira">Nome: Miguel Pereira</string>
+    <string name="numero">Número: 24649</string>
+    <string name="email">E-mail: pereiramiguel@ipvc.pt</string>
+    <string name="p_gina_at2">Página AT2</string>
+
+
+</resources>
